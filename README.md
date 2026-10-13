@@ -229,13 +229,15 @@ Configurations used during the experimental evaluation.
 
 ## Research
 
+## Research
+
 The project was accompanied by a research study:
 
 > **Delegating Decision-Making: A Multi-Agent System for Schnapsen**
 
 The study investigates the relationship between agent delegation, architectural complexity and performance in an adversarial game with changing information states.
 
-The full research paper is included in the repository.
+The research examines how different agent allocations affect performance across the game's information phases and player roles.
 
 ---
 

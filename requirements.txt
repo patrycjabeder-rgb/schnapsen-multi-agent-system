@@ -1,0 +1,2 @@
+schnapsen
+click==8.4.1
