@@ -2,7 +2,7 @@
 
 A modular multi-agent system for the card game **Schnapsen**, investigating how delegating different stages of gameplay to specialized agents affects system performance.
 
-> **Academic project developed collaboratively with Adam Leffler as part of the Intelligent Systems course at Vrije Universiteit Amsterdam.**
+> **Academic project developed collaboratively as part of the Intelligent Systems course at Vrije Universiteit Amsterdam.**
 
 ---
 
@@ -267,6 +267,11 @@ The research examines how different agent allocations affect performance across 
 
 ## Academic Context
 
-This project was developed collaboratively with Adam Leffler for the **Intelligent Systems** course at **Vrije Universiteit Amsterdam**.
+This project was developed collaboratively for the **Intelligent Systems** course at **Vrije Universiteit Amsterdam**.
 
 The project combines implementation, experimentation and research to investigate how specialized intelligent agents can be coordinated to solve different parts of an adversarial decision-making problem.
+
+## Authors
+
+- Patrycja Beder
+- Adam Leffler
